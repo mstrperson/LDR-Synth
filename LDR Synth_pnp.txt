@@ -4,7 +4,7 @@
 *eMail=
 *
 *Project=LDR Synth
-*Date=21:03:56
+*Date=21:00:30
 *CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
 *
 *
@@ -13,125 +13,59 @@
 *Rotation in degree (0-360, math. pos.)
 *
 *No;Value;Package;X;Y;Rotation;Side;Name
-1;;;97.282;-82.2759;0;Bottom;Copper Fill56
-2;;;49.3776;-48.9511;0;Bottom;Copper Fill49
-3;;;27.5844;-44.7347;0;Bottom;Copper Fill19
-4;;;111.963;-54.12;0;Bottom;Copper Fill6
-5;;THT;142.529;-33.0671;0;Bottom;LDR2
-6;47k;THT;101.484;-49.3324;0;Bottom;R22
-7;;;48.5521;-48.1002;0;Bottom;Copper Fill47
-8;;;55.0672;-50.6656;0;Bottom;Copper Fill11
-9;;;111.76;-96.2967;0;Bottom;Copper Fill64
-10;;DIP8 [THT];52.4061;-52.7077;0;Bottom;U2
-11;;;133.236;-50.8688;0;Bottom;Copper Fill27
-12;;THT;122.36;-32.2493;90;Bottom;R8
-13;;;84.963;-63.645;0;Bottom;Copper Fill5
-14;;[THT];122.36;-14.1763;0;Bottom;S8
-15;;;61.5475;-77.4125;0;Bottom;TXT1
-16;;;27.5844;-44.7347;0;Bottom;Copper Fill44
-17;;;117.284;-53.5104;0;Bottom;Copper Fill50
-18;;;116.434;-54.3359;0;Bottom;Copper Fill22
-19;;;96.4565;-81.4504;0;Bottom;Copper Fill54
-20;10pF;100 mil [THT, multilayer];70.4038;-66.159;90;Bottom;C6
-21;;;20.5105;-47.3128;0;Bottom;Copper Fill40
-22;47k;THT;83.3896;-50.4771;-90;Bottom;R24
-23;;;41.6941;-43.6552;0;Bottom;Copper Fill45
-24;;;76.4794;-59.9747;0;Bottom;Copper Fill24
-25;;;102.997;-83.5078;0;Bottom;Copper Fill3
-26;;[THT];79.3787;-14.1763;0;Bottom;S5
-27;;;118.135;-54.3359;0;Bottom;Copper Fill23
-28;22k;THT;112.668;-97.861;-90;Bottom;R27
-29;;;118.135;-54.3359;0;Bottom;Copper Fill52
-30;;;125.984;-98.3287;0;Bottom;Copper Fill62
-31;10k;THT;141.747;-42.6345;-180;Bottom;R31
-32;47k;THT;14.0643;-49.6238;-90;Bottom;R14
-33;;;95.6056;-82.2759;0;Bottom;Copper Fill55
-34;4.7k;THT;101.454;-45.4118;-180;Bottom;R23
-35;22k;THT;103.359;-64.0422;90;Bottom;R21
-36;;;40.8432;-44.4807;0;Bottom;Copper Fill20
-37;;[THT];93.3854;-14.1763;0;Bottom;S6
-38;;;5.9182;-73.1827;0;Bottom;Copper Fill39
-39;;DIP8 [THT];100.312;-86.0617;0;Bottom;U5
-40;;;12.2936;-68.3567;0;Bottom;Copper Fill37
-41;22k;THT;86.6222;-63.9743;-90;Bottom;R25
-42;;THT;79.3787;-32.2493;90;Bottom;R5
-43;;;126.886;-97.4524;0;Bottom;Copper Fill61
-44;100k;THT;102.107;-69.0129;0;Bottom;R18
-45;;;32.639;-48.3542;0;Bottom;Copper Fill12
-46;;;7.92058;-72.0471;0;Bottom;+9V
-47;4.7µF;100 mil [THT, electrolytic];89.4038;-48.8885;0;Bottom;C3
-48;;THT;35.1398;-32.2493;90;Bottom;R2
-49;2.2µF;100 mil [THT, electrolytic];60.9408;-53.0362;-90;Bottom;C2
-50;;;5.9182;-73.1827;0;Bottom;Copper Fill18
-51;;;116.434;-54.3359;0;Bottom;Copper Fill51
-52;;;30.9372;-53.9676;0;Bottom;Copper Fill7
-53;;;106.515;-44.6204;0;Bottom;Copper Fill59
-54;100k;THT;41.7479;-46.0314;-90;Bottom;R12
-55;;;74.7776;-59.9747;0;Bottom;Copper Fill53
-56;;;42.545;-44.4807;0;Bottom;Copper Fill46
-57;;;47.498;-52.6722;0;Bottom;Copper Fill33
-58;;THT;20.6882;-32.2493;90;Bottom;R1
-59;;THT;50.0573;-32.2493;90;Bottom;R3
-60;;;105.639;-45.4459;0;Bottom;Copper Fill60
-61;;THT;93.3854;-32.2493;90;Bottom;R6
-62;;;45.974;-53.993;0;Bottom;Copper Fill9
-63;;[THT];35.1398;-14.1763;0;Bottom;S2
-64;;THT;107.791;-32.2493;90;Bottom;R7
-65;0.22µF;100 mil [THT, multilayer];33.5838;-56.0725;90;Bottom;C1
-66;22k;THT;17.2325;-58.0942;-90;Bottom;R15
-67;;;90.8304;-82.0727;0;Bottom;Copper Fill31
-68;;;133.236;-52.9516;0;Bottom;Copper Fill57
-69;;;58.293;-52.6722;0;Bottom;Copper Fill10
-70;;;91.6813;-81.2218;0;Bottom;Copper Fill30
-71;;;10.6553;-66.693;0;Bottom;Copper Fill15
-72;;;25.908;-44.7347;0;Bottom;Copper Fill43
-73;;;113.462;-96.2967;0;Bottom;Copper Fill65
-74;;;8.9662;-68.3567;0;Bottom;Copper Fill36
-75;;;126.926;-99.5808;0;Bottom;SPKR1
-76;;;112.611;-95.4712;0;Bottom;Copper Fill29
-77;10k;THT;104.259;-98.9731;-180;Bottom;R26
-78;;;21.336;-48.1383;0;Bottom;Copper Fill41
-79;100k;THT;83.3963;-77.8784;90;Bottom;R29
-80;470k;THT;56.9836;-60.7435;-180;Bottom;R20
-81;;DIP8 [THT];79.4926;-63.7204;0;Bottom;U4
-82;;THT;142.487;-37.6337;0;Bottom;LDR1
-83;;[THT];50.0573;-14.1763;0;Bottom;S3
-84;22k;THT;52.5209;-43.6889;0;Bottom;R19
-85;100k;THT;43.8818;-60.8417;0;Bottom;R10
-86;330k;THT;72.3415;-56.357;-180;Bottom;R33
-87;47k;THT;43.3037;-54.1562;-90;Bottom;R16
-88;;THT;135.835;-56.9437;-90;Bottom;R17
-89;;;47.7012;-48.9511;0;Bottom;Copper Fill21
-90;;;7.6073;-74.8464;0;Bottom;Copper Fill17
-91;;DIP8 [THT];121.152;-58.1169;0;Bottom;U3
-92;;;127.762;-98.3287;0;Bottom;Copper Fill63
-93;;;47.7012;-48.9511;0;Bottom;Copper Fill48
-94;;;133.236;-52.9516;0;Bottom;Copper Fill26
-95;;;133.236;-50.8688;0;Bottom;Copper Fill58
-96;;;24.4602;-52.596;0;Bottom;Copper Fill8
-97;;;72.8472;-66.1342;0;Bottom;Copper Fill4
-98;10k;THT;33.9577;-50.5679;0;Bottom;R9
-99;;[THT];107.791;-14.1763;0;Bottom;S7
-100;;;26.7589;-43.9092;0;Bottom;Copper Fill42
-101;;;8.9662;-68.3567;0;Bottom;Copper Fill16
-102;;THT;61.752;-69.8311;-90;Bottom;R35
-103;4.7µF;100 mil [THT, electrolytic];119.284;-101.547;-180;Bottom;C4
-104;;;7.6073;-74.8464;0;Bottom;Copper Fill38
-105;;[THT];20.6882;-14.1763;0;Bottom;S1
-106;;;147.726;-39.7182;0;Bottom;Copper Fill13
-107;;;40.5892;-45.7888;0;Bottom;Copper Fill34
-108;;THT;65.0606;-32.2493;90;Bottom;R4
-109;;;70.8406;-52.977;0;Bottom;Copper Fill32
-110;100k;THT;91.7369;-83.5963;-90;Bottom;R28
-111;;DIP8 [THT];24.3468;-51.9186;0;Bottom;U1
-112;;[THT];65.0606;-14.1763;0;Bottom;S4
-113;;;102.997;-85.997;0;Bottom;Copper Fill2
-114;;;76.2;-55.009;0;Bottom;Copper Fill35
-115;;;92.5322;-82.0727;0;Bottom;Copper Fill66
-116;;;105.639;-45.4459;0;Bottom;Copper Fill28
-117;;;96.4565;-81.4504;0;Bottom;Copper Fill25
-118;;;76.2;-55.009;0;Bottom;Copper Fill14
-119;10pF;100 mil [THT, multilayer];100.651;-95.0714;0;Bottom;C5
-120;100k;THT;31.8655;-44.699;0;Bottom;R11
-121;100k;THT;43.8487;-66.8785;0;Bottom;R13
-122;;;98.9838;-91.9152;0;Bottom;Copper Fill1
+1;22k;THT;111.446;-104.893;-90;Bottom;R27
+2;;THT;19.6597;-39.3367;90;Bottom;R1
+3;;[THT];40.0618;-21.2081;0;Bottom;S3
+4;;;125.704;-106.613;0;Bottom;Audio Out
+5;;THT;81.2531;-39.2336;90;Bottom;R7
+6;;[THT];91.7633;-21.2081;0;Bottom;S8
+7;;DIP8 [THT];78.2711;-70.7522;0;Bottom;U4
+8;22k;THT;16.0112;-65.1261;-90;Bottom;R15
+9;;THT;92.0763;-39.0275;90;Bottom;R8
+10;;;6.6991;-79.0789;0;Bottom;9V
+11;100k;THT;30.6441;-51.4668;0;Bottom;R11
+12;330k;THT;71.1201;-63.3887;180;Bottom;R33
+13;;DIP8 [THT];99.09;-93.0935;0;Bottom;U5
+14;;DIP8 [THT];51.1845;-59.7396;0;Bottom;U2
+15;100k;THT;85.2166;-87.6171;90;Bottom;R29
+16;;[THT];60.6224;-21.2081;0;Bottom;S5
+17;;THT;128.733;-27.5245;0;Bottom;LDR2
+18;10k;THT;103.164;-106.421;180;Bottom;R26
+19;22k;THT;85.4006;-71.0062;-90;Bottom;R25
+20;100k;THT;42.6273;-73.9103;0;Bottom;R13
+21;100k;THT;40.8633;-53.2556;-90;Bottom;R12
+22;22k;THT;51.2692;-51.4668;0;Bottom;R19
+23;10pF;100 mil [THT, multilayer];99.4293;-102.103;0;Bottom;C5
+24;22k;THT;102.138;-71.0739;90;Bottom;R21
+25;4.7µF;100 mil [THT, electrolytic];118.063;-108.579;180;Bottom;C4
+26;10pF;100 mil [THT, multilayer];69.1824;-73.1909;90;Bottom;C6
+27;4.7µF;100 mil [THT, electrolytic];88.1824;-55.9203;0;Bottom;C3
+28;;THT;136.56;-61.8839;90;Bottom;R17
+29;;[THT];70.7125;-21.2081;0;Bottom;S6
+30;47k;THT;42.0823;-61.188;-90;Bottom;R16
+31;;THT;60.6767;-75.88;-90;Bottom;Adjust to 60k
+32;;DIP8 [THT];23.1251;-58.9505;0;Bottom;U1
+33;0.22µF;100 mil [THT, multilayer];32.3623;-63.1043;90;Bottom;C1
+34;2.2µF;100 mil [THT, electrolytic];59.7192;-60.0678;-90;Bottom;C2
+35;10k;THT;127.951;-37.0918;180;Bottom;R31
+36;;THT;50.3755;-39.5428;90;Bottom;R4
+37;;[THT];19.6597;-21.2081;0;Bottom;S1
+38;;DIP8 [THT];119.93;-65.1487;0;Bottom;U3
+39;;THT;128.691;-32.0911;0;Bottom;LDR1
+40;;[THT];81.2531;-21.2081;0;Bottom;S7
+41;;THT;40.0618;-39.3367;90;Bottom;R3
+42;;[THT];29.731;-21.2081;0;Bottom;S2
+43;100k;THT;91.1571;-90.7117;-90;Bottom;R28
+44;;[THT];50.3755;-21.2081;0;Bottom;S4
+45;;THT;70.7125;-39.1305;90;Bottom;R6
+46;47k;THT;82.1683;-57.5089;-90;Bottom;R24
+47;;THT;60.6224;-39.3367;90;Bottom;R5
+48;47k;THT;100.247;-56.3642;0;Bottom;R22
+49;;THT;29.731;-39.1305;90;Bottom;R2
+50;47k;THT;12.8427;-56.6555;-90;Bottom;R14
+51;100k;THT;42.6603;-67.8735;0;Bottom;R10
+52;4.7k;THT;100.247;-52.4436;180;Bottom;R23
+53;10k;THT;32.7362;-57.5998;0;Bottom;R9
+54;470k;THT;55.7622;-67.7753;180;Bottom;R20
+55;100k;THT;100.885;-76.0447;0;Bottom;R18
+56;;;136.342;-56.6574;0;Bottom;TXT1
