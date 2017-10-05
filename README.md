@@ -1,6 +1,9 @@
 # LDR-Synth
-Board Design based on Schematic designed by someone else:
+Board Design based on Schematic designed by Pete McBennett (Not Me):
 https://drive.google.com/file/d/0Bzxodk3UiKRgSXc0OVBWQnNfM00/view
+
+The original can be heard on Youtube:  https://www.youtube.com/watch?v=yZSkNASlMjM
+
 
 # Bill of Materials
 |Amount|Part|Properties|
