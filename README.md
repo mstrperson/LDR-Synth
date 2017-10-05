@@ -4,6 +4,7 @@ https://drive.google.com/file/d/0Bzxodk3UiKRgSXc0OVBWQnNfM00/view
 
 # Bill of Materials
 |Amount|Part|Properties|
+|---|---|---|
 |1|Power plug||
 |1|Trimmer Potentiometer|maximum resistance 100k; type Trimmer Potentiometer; package THT; size Trimmer - 6mm
 |1|Loudspeaker|or Mono Audio connector| 	
